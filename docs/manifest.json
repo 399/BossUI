@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "documents": [
+    {"id":"time","title":"通知时间展示规则","section":"guidelines","description":"","file":"docs/time.md","status":"已确定"},
+    {"id":"search","title":"搜索框","section":"guidelines","description":"","file":"docs/search.md","sourceFile":"docs/后台列表搜索能力设计标准.md","status":"已确定"}
+  ]
+}
